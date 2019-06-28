@@ -1,0 +1,9 @@
+img.grp,filename,condition,red,green,blue
+1,bcl2_133neg.jpg,BCL-2 133-,BCL-2,,
+1,bcl2_133pos.jpg,BCL-2 133+,BCL-2,,
+1,bcl2dapi_133pos.jpg,BCL/DAPI 133+,BCL-2,,DAPI
+1,bcl2dapi_133neg.jpg,BCL/DAPI 133-,BCL-2,,DAPI
+2,dmso_actin_ptk7.jpg,DMSO Actin+PTK7,PTK7,Actin,
+2,dmso_actin.jpg,DMSO Actin,,Actin,
+2,dmso_ptk7.jpg,DMSO PTK7,PTK7,,
+2,vatal_actin_ptk7.jpg,Vatalanib Act+PTK,,Actin,
